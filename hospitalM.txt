@@ -26,8 +26,7 @@ class hospitalM
         { 
         obj1.docassign();
         obj1.lab();}
-        
-        
+            
     }
     
     public static void docassign()
